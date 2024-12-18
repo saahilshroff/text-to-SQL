@@ -3,7 +3,6 @@ from langchain import OpenAI
 from langchain.sql_database import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
 from sqlalchemy.exc import SQLAlchemyError
-import os
 from secret_key import OPENAI_API_KEY
 
 # Initialize LLM with API key
