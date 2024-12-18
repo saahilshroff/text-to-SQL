@@ -2,7 +2,7 @@
 This project, Talk To Database App, enables users to interact with a database using natural language queries. It converts user input into SQL statements using LLMs, executes them, and retrieves relevant insights, simplifying database access for non-technical users.
 
 ## Demo
-![Demo of Talk-to-DB](/assests/demo.gif)
+![Demo of Talk-to-DB](assests/demo.gif)
 
 ## Features
 
